@@ -1,0 +1,8 @@
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.Properties.Resources.resources
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.StartMenu.resources
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.csproj.GenerateResource.Cache
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\bin\Debug\Suduko.exe
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\bin\Debug\Suduko.pdb
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.exe
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.pdb
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.InstructionForm.resources

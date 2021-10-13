@@ -1,0 +1,40 @@
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\bin\Debug\Suduko.exe
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\bin\Debug\Suduko.pdb
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.GameForm.resources
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.InstructionForm.resources
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.Properties.Resources.resources
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.StartMenu.resources
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.exe
+C:\Users\Ort Holon 2\Desktop\Suduko\Suduko\obj\x86\Debug\Suduko.pdb
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Suduko.exe
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Suduko.pdb
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\bin\Debug\Suduko.exe
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\bin\Debug\Suduko.pdb
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Suduko.GameForm.resources
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Suduko.InstructionForm.resources
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Suduko.Properties.Resources.resources
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Suduko.StartMenu.resources
+C:\Users\Ort Holon 2\Desktop\Sudoku\Suduko\obj\x86\Debug\Sudoku.csproj.GenerateResource.Cache
+F:\Sudoku\Suduko\obj\x86\Debug\Suduko.exe
+F:\Sudoku\Suduko\obj\x86\Debug\Suduko.pdb
+G:\Sudoku\Suduko\obj\x86\Debug\Suduko.exe
+G:\Sudoku\Suduko\obj\x86\Debug\Suduko.pdb
+E:\Sudoku\Suduko\bin\Debug\Suduko.exe
+E:\Sudoku\Suduko\bin\Debug\Suduko.pdb
+E:\Sudoku\Suduko\obj\x86\Debug\Suduko.GameForm.resources
+E:\Sudoku\Suduko\obj\x86\Debug\Suduko.InstructionForm.resources
+E:\Sudoku\Suduko\obj\x86\Debug\Suduko.Properties.Resources.resources
+E:\Sudoku\Suduko\obj\x86\Debug\Suduko.StartMenu.resources
+E:\Sudoku\Suduko\obj\x86\Debug\Sudoku.csproj.GenerateResource.Cache
+E:\Sudoku\Suduko\obj\x86\Debug\Suduko.exe
+E:\Sudoku\Suduko\obj\x86\Debug\Suduko.pdb
+E:\Sudoku\Suduko\obj\x86\Debug\Sudoku.csprojResolveAssemblyReference.cache
+F:\Sudoku\Suduko\bin\Debug\Suduko.exe
+F:\Sudoku\Suduko\bin\Debug\Suduko.pdb
+F:\Sudoku\Suduko\obj\x86\Debug\Sudoku.csprojResolveAssemblyReference.cache
+F:\Sudoku\Suduko\obj\x86\Debug\Suduko.GameForm.resources
+F:\Sudoku\Suduko\obj\x86\Debug\Suduko.InstructionForm.resources
+F:\Sudoku\Suduko\obj\x86\Debug\Suduko.Properties.Resources.resources
+F:\Sudoku\Suduko\obj\x86\Debug\Suduko.StartMenu.resources
+F:\Sudoku\Suduko\obj\x86\Debug\Sudoku.csproj.GenerateResource.Cache
